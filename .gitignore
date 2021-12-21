@@ -1,0 +1,5 @@
+/Scripts
+/Lib
+db.sqlite3
+manage.py
+pyvenv.cfg
