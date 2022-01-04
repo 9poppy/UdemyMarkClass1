@@ -3,7 +3,8 @@
 set -e
 
 # TODO: Set to URL of git repo.
-PROJECT_GIT_URL='https://9poopy@bitbucket.org/9poopy/markclass1.git'
+#PROJECT_GIT_URL='https://9poopy@bitbucket.org/9poopy/markclass1.git'
+PROJECT_GIT_URL=https://github.com/9poppy/UdemyMarkClass1.git
 
 PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
 
