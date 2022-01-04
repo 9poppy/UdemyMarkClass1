@@ -10,7 +10,6 @@ class UserProfileManager(BaseUserManager):
 
     def create_user(self, email, name, password=None):
         """Create a new user profile"""
-
         if not email:
             raise ValueError('User must have and email address')
 
